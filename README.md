@@ -1,5 +1,5 @@
 # jshack-ip_filter
-Blackboard Learn JavaScript Hack to customize the "Restrict Location" test setting
+Blackboard Learn JavaScript Hack (https://github.com/AllTheDucks/jshack-v1) to customize the "Restrict Location" test setting
 
 This JSHack does two things:
 
